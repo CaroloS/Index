@@ -9,9 +9,10 @@ https://github.com/CaroloS
 https://github.com/CaroloS/Cinema <br>
 https://github.com/CaroloS/Mesh_Pro_DesktopApp
 
-### Machine Learning, Data Science, Python, Numpy, Pandas, Scikit-Learn
+### Python, Machine Learning, Data Science, Numpy, Pandas, Scikit-Learn etc.
 https://github.com/CaroloS/ML-LiverDisease <br>
-https://github.com/CaroloS/Python_DataScience_Coursera
+https://github.com/CaroloS/Python_DataScience_Coursera <br>
+https://github.com/CaroloS/Blender_Scripting
 
 ### Relational database web application: SQL, PHP, Azure
 https://github.com/CaroloS/MockEbay
